@@ -1,3 +1,7 @@
+# add api_keys.py to ignore list
+api_keys.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
